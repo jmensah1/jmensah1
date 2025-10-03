@@ -28,17 +28,15 @@ A comprehensive portal system designed for institutional parliamentary managemen
 #### ⛪ Church Attendance System
 An efficient attendance management solution for religious organizations, streamlining member tracking and engagement.
 
-### 📊 GitHub Stats
+### 🎯 Current Focus
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmensah1&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmensah1&layout=compact&theme=default&hide_border=true)
+Building scalable web applications with Laravel and Django, while expanding expertise in modern JavaScript frameworks. Most of my development work happens in private repositories and local environments as I craft solutions for clients and institutional projects.
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: [YOUR_LINKEDIN_URL]
-- 📧 Email: [YOUR_EMAIL]
-- 🌐 Portfolio: [YOUR_PORTFOLIO_URL] *(optional)*
+- 💼 LinkedIn: https://www.linkedin.com/in/joseph-mensah-/
+- 📧 Email: malito:joseph.mensah@jbmensah.com
+- 🌐 Portfolio: https://jbmensah.com
 
 ### 🤝 Open to Opportunities
 
@@ -46,4 +44,4 @@ I'm actively seeking freelance projects and collaboration opportunities in web d
 
 ---
 
-⭐️ From [YOUR_GITHUB_USERNAME]
+⭐️ From [jmensah1](https://github.com/jmensah1)
