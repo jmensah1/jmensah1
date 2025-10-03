@@ -30,9 +30,9 @@ An efficient attendance management solution for religious organizations, streaml
 
 ### 📊 GitHub Stats
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmensah1&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmensah1&layout=compact&theme=default&hide_border=true)
 
 ### 📫 Let's Connect
 
